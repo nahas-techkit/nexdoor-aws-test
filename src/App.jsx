@@ -22,11 +22,11 @@ function App() {
           count is {count}
         </button>
         <p>
-          Testing purpuse
+          Testing purpose
         </p>
       </div>
       <p className="read-the-docs">
-       this site for testing purpus
+       this site for testing purpose only
       </p>
     </div>
   )
